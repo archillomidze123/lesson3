@@ -1,0 +1,93 @@
+body{
+	padding: 35px 30px;
+}
+.logo{
+	width: 100px;
+	margin-bottom: 30px;
+}
+.navigation-a{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.active{
+	color: #EE4036;
+}
+.navigation-li{
+	margin-bottom: 10px;
+}
+section{
+	margin-top: 50px;
+}
+.date{
+	font-size: 48px;
+	padding: 5px;	
+	background-color: #3D58A6;
+	color: #fff;
+}
+.maisi{
+	font-size: 22px;
+	margin-top: 10px;
+	color: #3D58A6;
+}
+article{
+	margin-top: 25px;
+}
+h3{
+	font-size: 22px;
+}
+.banner1{
+	margin-top: 22px;
+	margin-bottom: 28px;
+}
+.par1{
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+.date28{
+	font-size: 48px;
+	color: #fff;
+	background-color: #3D58A6;
+	padding: 5px;
+}
+.maisi28{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: 10px;
+}
+.banner2{
+	margin-top: 22px;
+	margin-bottom: 28px; 
+}
+.par2{
+	padding-top: 25px;
+	padding-bottom: 25px;
+
+}
+.date29{
+	font-size: 48px;
+	color: #fff;
+	padding: 5px; 
+	background-color: #3D58A6;
+}
+.maisi29{
+	color: #3D58A6;
+	font-size: 22px;
+	margin-top: 10px;
+}
+.banner3{
+	margin-top: 22px;
+	margin-bottom: 28px;
+}
+.par3{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+.logo2{
+	width: 20px;
+}
+.logo3{
+	width: 20px;
+}
+.section{
+	margin-top: 30px;
+}

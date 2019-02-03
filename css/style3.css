@@ -1,0 +1,52 @@
+body{
+	padding: 35px 30px 35px 30px;
+}
+.logo{
+	width: 100px;
+	margin-bottom: 28px;
+}
+.navigation-li{
+	font-size: 22px;
+	color: #3D58A6;
+	margin-top: 10px;
+}
+.active{
+	color: #EE4036;
+}
+.section1{
+	padding: 150px 500px 150px 500px;
+}
+h2{
+	font-size: 22px;
+	color: #3D58A6;
+}
+p{
+	font-size: 16px;
+}
+.misamarti{
+	color: #808080;
+}
+.tel{
+	color: #808080;
+}
+.posta{
+	color: #808080;
+}
+.petr{
+	#000000;
+}
+.nomeri{
+	#000000;
+}
+.mail{
+	#000000;
+}
+.section-img{
+	margin-top: 116px;
+}
+.logo2{
+	width: 20px;
+}
+.logo3{
+	width: 20px;
+}

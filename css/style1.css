@@ -1,0 +1,26 @@
+body{
+	padding: 35px 30px 35px 30px;
+}
+.logo{
+	width: 100px;
+	margin-bottom: 30px;
+}
+.navigation-a{
+	color: #3D58A6;
+	font-size: 22px;
+}
+.active{
+	color: #EE4036;
+}
+.navigation-li{
+	margin-bottom: 10px;
+}
+.logo2{
+	width: 20px;
+}
+.logo3{
+	width: 20px;
+}
+.section{
+	margin-top: 30px;
+}
